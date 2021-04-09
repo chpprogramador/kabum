@@ -6,7 +6,7 @@ Para instalar siga os passos abaixo:
 2. Configurar acesso ao banco de dados através do arquivo "config.php";
 3. Acessar aplicação através de um servidor Apache ou semelhante;
 
-Caso não queira fazer a instalação eu já deixei disponível na web no endereço:
+Caso não queira fazer a instalação, eu deixei disponível na web no endereço:
 
 http://kabum.kinghost.net
 
