@@ -1,0 +1,103 @@
+/* your styles go here */
+
+.oculto{
+    display: none;
+}
+
+*[class*="icon-"] {
+    -webkit-transform: translateY(3px);
+    transform: translateY(10px) !important;
+}
+
+#form1{
+    margin: 0px;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+input[type=range]{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+
+nav.side-navbar {
+    background: #2f333e;
+    color: #9f9fa0;
+}
+
+    nav.side-navbar .title h1 {
+        color: #fff;
+    }
+
+    nav.side-navbar ul li.active a {
+        background: #495062;
+    }
+
+.page {
+    background: #eeeeee;
+}
+
+nav.side-navbar a[aria-expanded="true"] {
+    background: #495062;
+}
+
+nav.side-navbar ul ul a {
+    background: #495062;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+.table tr {
+    border-color: #ebebec;
+}
+
+.form-control {
+    border: 1px solid #d1d1d1;
+}
+
+
+.btn-file {
+    background: #f8f8f8;
+    padding: 20px;
+    width: 100%;
+    border-radius: 0;
+    cursor: pointer;
+    border: solid 1px #d1d1d1;
+}
+
+    .btn-file:hover {
+        background: #f3f3f3;
+    }
+
+    .btn-file .fa {
+        display: block;
+        font-size: 30px;
+    }
+
+    .btn-file .text-muted {
+        display: block;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    .btn-file input {
+        display: none;
+    }
+
+    .btn-file img {
+        padding-bottom: 15px;
+    }
+
+span.box-btn {
+    display: block;
+}
+
+.inline{
+    display: inline;
+}

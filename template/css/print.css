@@ -1,0 +1,32 @@
+﻿* {
+color:#000 !important;
+text-shadow:none !important;
+filter:none !important;
+-ms-filter:none !important;
+}
+
+.page{
+    background:transparent !important;
+}
+
+section {
+    padding: 0px !important;
+}
+
+body {
+margin:0;
+padding:0;
+line-height: 1.4em;
+}
+
+@page {
+margin: 0.5cm;
+}
+
+.header, .side-navbar, .page-header, .breadcrumb-holder, .no-print, footer{
+    display: none !important;
+}
+
+table { page-break-inside:auto }
+tr    { page-break-inside:avoid; page-break-after:auto }
+
