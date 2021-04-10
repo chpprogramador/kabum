@@ -22,6 +22,7 @@ O Chrome Webdriver deverá ser configurado na classe driver.
 
 
 Obrigado pela oportunidade!
+
 Qualquer dúvida, estou a disposição.
 
 César H. Picinini
