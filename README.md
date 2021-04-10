@@ -14,6 +14,14 @@ Caso não queira fazer a instalação, eu deixei disponível na web no endereço
 http://kabum.kinghost.net
 
 
+APLICAÇÃO DE TESTE
+
+A aplicação foi desenvolvida em Java utilizando o Selenium e o Chrome Webdriver
+
+O Chrome Webdriver deverá ser configurado na classe driver.
+
+
 Obrigado pela oportunidade!
+Qualquer dúvida, estou a disposição.
 
 César H. Picinini
